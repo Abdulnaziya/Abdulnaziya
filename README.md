@@ -1,71 +1,160 @@
 # Hi there, I'm Abdul Naziya 👋
 
-### AI/ML Engineer | Software Developer
+### B.Tech AI & Data Science Student | Python Developer | AI/ML Enthusiast
 
-📍 Vinukonda, India | 💼  Frontend Development, AI Engineering, and Machine Learning
-
----
-
-### 🚀 About Me
-
-* 🧠 **Specializing in Artificial Intelligence:** Deep academic focus and hands-on experience in Natural, Transformer architectures, and Knowledge Representation.
-* 🎓 **Continuous Learner:** Completed the rigorous Foundations of Modern Machine Learning program, emphasizing real-world applications of Deep Learning and statistical models.
-* ⚡ **Engineering Mindset:** Passionate about writing clean, scalable code and bridging the gap between theoretical data science and production-ready software systems.
+📍 Vinukonda, Andhra Pradesh, India | 🎓 B.Tech in Artificial Intelligence & Data Science
 
 ---
 
-### 🛠️ Technical Skills
+## 🚀 About Me
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Python, C++, JavaScript, SQL |
-| **AI / Machine Learning** | PyTorch, Scikit-Learn, Pandas, NumPy, Knowledge Representation |
-| **Generative AI & LLMs** | Hugging Face, NLP Pipelines, Transformer Architectures (Longformers) |
-| **Backend & Web** | Node.js, Express.js, FastAPI, RESTful APIs |
-| **Databases** | PostgreSQL, MySQL, Neo4j |
-| **Developer Tools & DevOps** | Git, GitHub, Docker, Jupyter / Google Colab, Linux |
+I'm a **B.Tech Artificial Intelligence & Data Science student** passionate about **Python, Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
 
----
+I enjoy learning through hands-on projects and solving real-world problems by turning ideas into practical applications.
 
-### 🌟 Featured Projects
+* 🐍 Building a strong foundation in **Python programming**
+* 🧩 Practicing **Data Structures & Algorithms and problem solving**
+* 🤖 Exploring **Artificial Intelligence and Machine Learning**
+* 📊 Learning **data analysis using NumPy and Pandas**
+* 🧠 Exploring **Generative AI, NLP, and LLM-based applications**
+* 🧪 Developing skills in **Software Testing & Quality Assurance**
+* 💡 Interested in building practical and user-focused technology solutions
 
-*(Note: Replace the links and placeholders below with your actual strongest GitHub repositories once they are uploaded and public.)*
-
-#### 1. [Enterprise Context-Aware NLP Engine](https://github.com/Abdulnaziya/your-repo-link)
-
-> A highly scalable Natural Language Processing service designed to handle extensive document analysis.
-
-* Implemented Longformer architectures to overcome standard token limitations for large-scale text ingestion.
-* Engineered a robust backend infrastructure to serve the AI inference with sub-200ms latency.
-
-**Tech Stack:** Python, PyTorch, FastAPI, HuggingFace
-
-#### 2. [Distributed Knowledge Representation Graph](https://github.com/Abdulnaziya/your-repo-link)
-
-> A system modeling semantic networks and probabilistic reasoning systems for intelligent agents.
-
-* Mapped complex probabilistic models (including Bayes' theorem applications) into a traversable semantic network.
-* Optimized graph traversal and querying to support intelligent decision-making agents.
-
-**Tech Stack:** C++, Python, Neo4j, Docker
-
-#### 3. [Machine Learning Foundations Portfolio](https://github.com/Abdulnaziya/your-repo-link)
-
-> A comprehensive collection of statistical models and deep learning architectures.
-
-* Developed robust ML classification and regression models emphasizing data pipeline optimization.
-* Applied advanced concepts in linear algebra and probability to real-world datasets for predictive modeling.
-
-**Tech Stack:** Python, Scikit-Learn, Pandas, Jupyter
+> **My goal is to continuously strengthen my programming and problem-solving skills while building meaningful applications with AI and software technologies.**
 
 ---
 
-### 📬 Connect with Me
+## 🛠️ Technical Skills
 
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-* **Email:** [Your Professional Email](mailto:your.email@example.com)
-* **GitHub:** [Abdulnaziya](https://github.com/Abdulnaziya)
+| Domain                    | Technologies & Tools                                           |
+| :------------------------ | :------------------------------------------------------------- |
+| **Programming Language**  | Python                                                         |
+| **Data & DSA**            | NumPy, Pandas, Data Structures & Algorithms                    |
+| **AI / Machine Learning** | Machine Learning, Scikit-Learn                                 |
+| **Generative AI**         | Gemini API, Google AI Studio, Hugging Face                     |
+| **Web & Applications**    | Streamlit, Flask                                               |
+| **Databases**             | PostgreSQL, Firebase                                           |
+| **Testing & QA**          | Software Testing, SDLC, Test Cases                             |
+| **Developer Tools**       | Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Anaconda |
 
 ---
 
-<p align="center"><i>"Engineering intelligence through clean code and scalable architecture."</i></p>
+## 🌟 Featured Projects
+
+### 🥗 NutriSafe — Food Allergy & Nutrition Chatbot
+
+> An AI-powered chatbot designed to provide nutritional information about Indian foods and help users identify potential allergens.
+
+**Key Features:**
+
+* Provides nutritional information for Indian food items.
+* Identifies common allergens including gluten, dairy, nuts, soy, and eggs.
+* Suggests alternative foods based on dietary requirements.
+* Uses a structured food database and allergen rule engine.
+* Provides an interactive user interface.
+
+**Tech Stack:** Python, Streamlit, Gemini API, JSON
+
+---
+
+### 🚦 Traffic Monitoring System
+
+> A computer vision-based application designed to monitor and analyze traffic using video input.
+
+**Key Features:**
+
+* Detects vehicles from video streams.
+* Uses object detection for traffic monitoring.
+* Processes video using computer vision techniques.
+* Provides a web-based interface for the application.
+
+**Tech Stack:** Python, YOLOv8, OpenCV, Flask
+
+---
+
+### 🤖 AI Assignment Helper
+
+> An AI-powered application designed to assist students with academic assignments and learning-related queries.
+
+**Key Features:**
+
+* Generates AI-assisted responses for assignment-related questions.
+* Provides an interactive interface for students.
+* Integrates Generative AI into an educational application.
+
+**Tech Stack:** Python, Streamlit, Gemini API
+
+---
+
+### 💼 Campus Placement Assistant
+
+> An AI-based application designed to support students in their campus placement preparation.
+
+**Key Features:**
+
+* Helps students prepare for placement-related activities.
+* Supports AI-assisted career and interview preparation.
+* Applies Generative AI to educational and career-support use cases.
+
+**Tech Stack:** Python, Generative AI, Google AI Studio
+
+---
+
+## 📚 Currently Learning
+
+* 🐍 Advanced Python
+* 🧩 Data Structures & Algorithms
+* 💻 Problem Solving & LeetCode
+* 🤖 Machine Learning
+* 📊 Data Analysis
+* 🧠 Generative AI & LLM Applications
+* 🔤 Natural Language Processing
+* 🧪 Software Testing & Quality Assurance
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in building my career in:
+
+* 💻 Software Development
+* 🐍 Python Development
+* 🤖 AI/ML Engineering
+* 📊 Data Analytics
+* 🧪 Software Testing & QA
+
+Currently, my primary focus is on strengthening my **Python, DSA, problem-solving, and practical project development skills**.
+
+---
+
+## 📈 My Learning Journey
+
+```text
+Python
+   ↓
+Data Structures & Algorithms
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+Generative AI & NLP
+   ↓
+Real-World AI Applications
+```
+
+> **Learn → Build → Test → Improve → Repeat 🔄**
+
+---
+
+## 📬 Connect With Me
+
+* 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/abdulnaziya-shaik-0b610739a/)
+* 🧩 **LeetCode:** [View my LeetCode profile](https://leetcode.com/u/abdulnaziya_09/)
+* 📧 **Email:** [your.email@example.com](shaikabdulnaziya418@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Learning by building, improving through practice, and creating with technology."</i>
+</p>
